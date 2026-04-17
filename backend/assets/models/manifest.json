@@ -1,0 +1,9 @@
+{
+    "asset_base_url": "/assets/models/",
+    "packages": [
+        {
+            "name": "Agios Vasilios",
+            "glb_url": "/assets/models/agios_vasilios.glb"
+        }
+    ]
+}

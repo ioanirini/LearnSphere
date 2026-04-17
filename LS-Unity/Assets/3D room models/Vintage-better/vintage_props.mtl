@@ -1,0 +1,178 @@
+# Blender 4.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl mat0
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Book1_1blue_baseColor.png
+map_Ns Book1_1blue_metallicRoughness.png
+map_refl Book1_1blue_metallicRoughness.png
+map_Bump Book1_1blue_normal.png
+
+newmtl mat1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Book1_1Grey_baseColor.png
+map_Ns Book1_1blue_metallicRoughness.png
+map_refl Book1_1blue_metallicRoughness.png
+map_Bump Book1_1blue_normal.png
+
+newmtl mat10
+Ns 639.269409
+Ka 0.700150 0.700150 0.700150
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd Handle_baseColor.jpg
+
+newmtl mat11
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd world_map_baseColor.png
+map_Ns world_map_metallicRoughness.png
+map_refl world_map_metallicRoughness.png
+map_Bump world_map_normal.png
+
+newmtl mat12
+Ka 0.828010 0.828010 0.828010
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd ink_001_baseColor.jpg
+map_Ns ink_001_metallicRoughness.png
+map_refl ink_001_metallicRoughness.png
+map_Bump ink_001_normal.jpg
+
+newmtl mat13
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Nib_Pen_baseColor.png
+map_Ns Nib_Pen_metallicRoughness.png
+map_refl Nib_Pen_metallicRoughness.png
+map_Bump Nib_Pen_normal.jpg
+
+newmtl mat14
+Ns 202.435303
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd floor_baseColor.jpg
+map_Bump floor_normal.png
+
+newmtl mat2
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Book1_1yellow_baseColor.png
+map_Ns Book1_1blue_metallicRoughness.png
+map_refl Book1_1blue_metallicRoughness.png
+map_Bump Book1_1blue_normal.png
+
+newmtl mat3
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Book1Green_001_baseColor.jpg
+map_Ns Book1Green_001_metallicRoughness.png
+map_refl Book1Green_001_metallicRoughness.png
+map_Bump Book1Green_001_normal.png
+
+newmtl mat4
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Book1Red_001_baseColor.jpg
+map_Ns Book1Green_001_metallicRoughness.png
+map_refl Book1Green_001_metallicRoughness.png
+map_Bump Book1Green_001_normal.png
+
+newmtl mat5
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd book1grey_001_baseColor.jpg
+map_Ns Book1Green_001_metallicRoughness.png
+map_refl Book1Green_001_metallicRoughness.png
+map_Bump Book1Green_001_normal.png
+
+newmtl mat6
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Book1_1_baseColor.png
+map_Ns Book1_1blue_metallicRoughness.png
+map_refl Book1_1blue_metallicRoughness.png
+map_Bump Book1_1blue_normal.png
+
+newmtl mat7
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Book1Blue_001_baseColor.jpg
+map_Ns Book1Green_001_metallicRoughness.png
+map_refl Book1Green_001_metallicRoughness.png
+map_Bump Book1Green_001_normal.png
+
+newmtl mat8
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Book2Low_001_baseColor.jpg
+map_Ns Book2Low_001_metallicRoughness.png
+map_refl Book2Low_001_metallicRoughness.png
+map_Bump Book2Low_001_normal.jpg
+
+newmtl mat9
+Ns 219.178055
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Desk_baseColor.jpg
+map_Bump Desk_normal.jpg

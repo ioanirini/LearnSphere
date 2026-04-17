@@ -1,0 +1,9 @@
+global:
+  scrape_interval: 2s
+
+scrape_configs:
+  - job_name: "learnsphere"
+    metrics_path: /metrics
+    static_configs:
+      # Prometheus runs in the same compose network; use the service name + port
+      - targets: ["learnsphere-backend:8080"]

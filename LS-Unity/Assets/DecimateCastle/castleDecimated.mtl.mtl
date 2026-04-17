@@ -1,0 +1,1034 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Agios_Basileios_Church_u1_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u1_v1_diffuse.png
+
+newmtl Agios_Basileios_Church_u1_v2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u1_v2_diffuse.png
+
+newmtl Agios_Basileios_Church_u1_v3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u1_v3_diffuse.png
+
+newmtl Agios_Basileios_Church_u2_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u2_v1_diffuse.png
+
+newmtl Agios_Basileios_Church_u2_v2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u2_v2_diffuse.png
+
+newmtl Agios_Basileios_Church_u2_v3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u2_v3_diffuse.png
+
+newmtl Agios_Basileios_Church_u3_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u3_v1_diffuse.png
+
+newmtl Agios_Basileios_Church_u3_v2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u3_v2_diffuse.png
+
+newmtl Agios_Basileios_Church_u4_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u4_v1_diffuse.png
+
+newmtl Agios_Basileios_Church_u4_v2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Agios_Basileios_Church_u4_v2_diffuse.png
+
+newmtl GEFYRI_ARTAS_u1_v1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u1_v1_diffuse.png
+map_Bump GEFYRI_ARTAS_u1_v1_normal.png
+
+newmtl GEFYRI_ARTAS_u1_v2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u1_v2_diffuse.png
+map_Bump GEFYRI_ARTAS_u1_v2_normal.png
+
+newmtl GEFYRI_ARTAS_u1_v3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u1_v3_diffuse.png
+map_Bump GEFYRI_ARTAS_u1_v3_normal.png
+
+newmtl GEFYRI_ARTAS_u1_v4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u1_v4_diffuse.png
+map_Bump GEFYRI_ARTAS_u1_v4_normal.png
+
+newmtl GEFYRI_ARTAS_u1_v5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u1_v5_diffuse.png
+map_Bump GEFYRI_ARTAS_u1_v5_normal.png
+
+newmtl GEFYRI_ARTAS_u2_v1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u2_v1_diffuse.png
+map_Bump GEFYRI_ARTAS_u2_v1_normal.png
+
+newmtl GEFYRI_ARTAS_u2_v2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u2_v2_diffuse.png
+map_Bump GEFYRI_ARTAS_u2_v2_normal.png
+
+newmtl GEFYRI_ARTAS_u2_v3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u2_v3_diffuse.png
+map_Bump GEFYRI_ARTAS_u2_v3_normal.png
+
+newmtl GEFYRI_ARTAS_u2_v4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u2_v4_diffuse.png
+map_Bump GEFYRI_ARTAS_u2_v4_normal.png
+
+newmtl GEFYRI_ARTAS_u2_v5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u2_v5_diffuse.png
+map_Bump GEFYRI_ARTAS_u2_v5_normal.png
+
+newmtl GEFYRI_ARTAS_u3_v1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u3_v1_diffuse.png
+map_Bump GEFYRI_ARTAS_u3_v1_normal.png
+
+newmtl GEFYRI_ARTAS_u3_v2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u3_v2_diffuse.png
+map_Bump GEFYRI_ARTAS_u3_v2_normal.png
+
+newmtl GEFYRI_ARTAS_u3_v3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u3_v3_diffuse.png
+map_Bump GEFYRI_ARTAS_u3_v3_normal.png
+
+newmtl GEFYRI_ARTAS_u3_v4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u3_v4_diffuse.png
+map_Bump GEFYRI_ARTAS_u3_v4_normal.png
+
+newmtl GEFYRI_ARTAS_u4_v1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u4_v1_diffuse.png
+map_Bump GEFYRI_ARTAS_u4_v1_normal.png
+
+newmtl GEFYRI_ARTAS_u4_v2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u4_v2_diffuse.png
+map_Bump GEFYRI_ARTAS_u4_v2_normal.png
+
+newmtl GEFYRI_ARTAS_u4_v3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u4_v3_diffuse.png
+map_Bump GEFYRI_ARTAS_u4_v3_normal.png
+
+newmtl GEFYRI_ARTAS_u4_v4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u4_v4_diffuse.png
+map_Bump GEFYRI_ARTAS_u4_v4_normal.png
+
+newmtl GEFYRI_ARTAS_u5_v1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u5_v1_diffuse.png
+map_Bump GEFYRI_ARTAS_u5_v1_normal.png
+
+newmtl GEFYRI_ARTAS_u5_v2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u5_v2_diffuse.png
+map_Bump GEFYRI_ARTAS_u5_v2_normal.png
+
+newmtl GEFYRI_ARTAS_u5_v3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u5_v3_diffuse.png
+map_Bump GEFYRI_ARTAS_u5_v3_normal.png
+
+newmtl GEFYRI_ARTAS_u5_v4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd GEFYRI_ARTAS_u5_v4_diffuse.png
+map_Bump GEFYRI_ARTAS_u5_v4_normal.png
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Panagia_Parigoritisa_Final_u1_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u1_v1_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u1_v2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u1_v2_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u1_v3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u1_v3_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u1_v4.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u1_v4_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u2_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u2_v1_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u2_v2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u2_v2_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u2_v3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u2_v3_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u2_v4.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u2_v4_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u3_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u3_v1_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u3_v2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u3_v2_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u3_v3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u3_v3_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u3_v4.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u3_v4_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u4_v1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u4_v1_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u4_v2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u4_v2_diffuse.png
+
+newmtl Panagia_Parigoritisa_Final_u4_v3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Panagia_Parigoritisa_Final_u4_v3_diffuse.png
+
+newmtl material_0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_00_map_Kd.jpg
+
+newmtl material_1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_01_map_Kd.jpg
+
+newmtl material_10
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_10_map_Kd.jpg
+
+newmtl material_11
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_11_map_Kd.jpg
+
+newmtl material_12
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_12_map_Kd.jpg
+
+newmtl material_13
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_13_map_Kd.jpg
+
+newmtl material_14
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_14_map_Kd.jpg
+
+newmtl material_15
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_15_map_Kd.jpg
+
+newmtl material_16
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_16_map_Kd.jpg
+
+newmtl material_17
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_17_map_Kd.jpg
+
+newmtl material_18
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_18_map_Kd.jpg
+
+newmtl material_19
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_19_map_Kd.jpg
+
+newmtl material_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_02_map_Kd.jpg
+
+newmtl material_20
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_20_map_Kd.jpg
+
+newmtl material_21
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_21_map_Kd.jpg
+
+newmtl material_22
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_22_map_Kd.jpg
+
+newmtl material_23
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_23_map_Kd.jpg
+
+newmtl material_24
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_24_map_Kd.jpg
+
+newmtl material_25
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_25_map_Kd.jpg
+
+newmtl material_26
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_26_map_Kd.jpg
+
+newmtl material_27
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_27_map_Kd.jpg
+
+newmtl material_28
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_28_map_Kd.jpg
+
+newmtl material_29
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_29_map_Kd.jpg
+
+newmtl material_3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_03_map_Kd.jpg
+
+newmtl material_30
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_30_map_Kd.jpg
+
+newmtl material_31
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_31_map_Kd.jpg
+
+newmtl material_32
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_32_map_Kd.jpg
+
+newmtl material_33
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_33_map_Kd.jpg
+
+newmtl material_34
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_34_map_Kd.jpg
+
+newmtl material_35
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_35_map_Kd.jpg
+
+newmtl material_36
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_36_map_Kd.jpg
+
+newmtl material_37
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_37_map_Kd.jpg
+
+newmtl material_38
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_38_map_Kd.jpg
+
+newmtl material_39
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_39_map_Kd.jpg
+
+newmtl material_4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_04_map_Kd.jpg
+
+newmtl material_40
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_40_map_Kd.jpg
+
+newmtl material_41
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_41_map_Kd.jpg
+
+newmtl material_42
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_42_map_Kd.jpg
+
+newmtl material_43
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_43_map_Kd.jpg
+
+newmtl material_44
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_44_map_Kd.jpg
+
+newmtl material_45
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_45_map_Kd.jpg
+
+newmtl material_46
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_46_map_Kd.jpg
+
+newmtl material_47
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_47_map_Kd.jpg
+
+newmtl material_48
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_48_map_Kd.jpg
+
+newmtl material_5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_05_map_Kd.jpg
+
+newmtl material_6
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_06_map_Kd.jpg
+
+newmtl material_7
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_07_map_Kd.jpg
+
+newmtl material_8
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_08_map_Kd.jpg
+
+newmtl material_9
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scene_mesh_textured_material_09_map_Kd.jpg
+
+newmtl overlay.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd overlay.png
+
+newmtl roof
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.290000 0.250000 0.210000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl wall
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.500000 0.200000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl water
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.009000 0.002000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
