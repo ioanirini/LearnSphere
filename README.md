@@ -181,7 +181,7 @@ LearnSphere was developed within the **6G-BRICKS** project through the collabora
 
 ## 🏗️ Infrastructure and Testbed Support
 
-- 6G-BRICKS ISI testbed (Athens, Greece)
+- 6G-BRICKS ISI testbed
 - 6G-ready networking infrastructure
 - Edge-cloud computing capabilities
 - Performance monitoring and experimentation support
