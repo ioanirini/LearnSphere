@@ -19,17 +19,6 @@ LearnSphere enables users to explore **high-fidelity 3D environments** (e.g., cu
 - Scalable delivery of large datasets via server or local builds  
 - Deployment across standalone VR devices (Meta Quest series)  
 
----
-
-## 🏗️ Repository Structure
-LearnSphere/
-│
-├── LS-Unity/ # Unity VR application source code (XR Toolkit)
-├── backend/ # Backend services (server-side logic, APIs, Docker configs, app source code)
-├── README.md # Project documentation
-├── .gitignore
-└── .gitattributes
-
 
 ---
 
@@ -68,7 +57,7 @@ LearnSphere is tested and runs on:
 Builds are hosted externally due to size limitations.
 
 Builds Link:  
-https://drive.google.com/drive/folders/1aVvuIHFMe1lq64HX_6YegIByUpRmbo6w?usp=sharing
+-https://drive.google.com/drive/folders/1aVvuIHFMe1lq64HX_6YegIByUpRmbo6w?usp=sharing
 ---
 
 ### 🧱 Available Builds
