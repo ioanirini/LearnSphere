@@ -4,6 +4,10 @@ LearnSphere is an immersive **Virtual Reality (VR) educational platform** develo
 
 This repository contains the results and implementation artifacts from Phase 1 of the LearnSphere project.
 
+
+![Immersive VR Exploration](screenshots/walkthrough1.gif)
+
+
 ---
 
 ## 📌 Overview
@@ -195,3 +199,22 @@ LearnSphere was developed within the **6G-BRICKS** project through the collabora
 ## 🙏 Acknowledgment
 
 This work has received funding from the Smart Networks and Services Joint Undertaking (SNS JU) under the European Union’s Horizon Europe research and innovation programme (Grant Agreement No. 101096954), in the context of the 6G-BRICKS project.
+
+## 📸 Screenshots
+
+![Main Room](screenshots/Screenshot_1.jpg)
+
+![Real Scale Narrator](screenshots/Screenshot_2.jpg)
+
+![Virtual Exploration](screenshots/Screenshot_3.jpg)
+
+![Map Exploration](screenshots/Screenshot_4.jpg)
+
+![Map Exploration](screenshots/Screenshot_5.jpg)
+
+![Main Room](screenshots/Screenshot_6.jpg)
+
+![Map Exploration](screenshots/Screenshot_7.jpg)
+
+
+
