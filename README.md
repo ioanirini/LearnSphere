@@ -1,8 +1,9 @@
+![](screenshots/logo.png)
 # 🧠 LearnSphere
 
 LearnSphere is an immersive **Virtual Reality (VR) educational platform** developed using Unity and the XR Interaction Toolkit. The project is part of the **6G-BRICKS initiative**, aiming to revolutionize education through real-time, interactive, and collaborative VR experiences powered by next-generation networking technologies.
 
-This repository contains the results and implementation artifacts from Phase 1 of the LearnSphere project.
+This repository contains the results and implementation artifacts from all Phases of the LearnSphere project.
 
 
 ![Immersive VR Exploration](screenshots/walkthrough1.gif)
@@ -54,10 +55,9 @@ LearnSphere is tested and runs on:
 
 ## 📦 Builds
 
-Builds are hosted externally due to size limitations.
+- Builds are hosted externally due to size limitations.
+- Builds Link: https://drive.google.com/drive/folders/1aVvuIHFMe1lq64HX_6YegIByUpRmbo6w?usp=sharing 
 
-Builds Link:  
--https://drive.google.com/drive/folders/1aVvuIHFMe1lq64HX_6YegIByUpRmbo6w?usp=sharing
 ---
 
 ### 🧱 Available Builds
@@ -160,8 +160,9 @@ LearnSphere is part of a research effort focused on:
 
 ## 📜 License
 
-Source Code is licensed under the MIT License
-3D Assets, Models, and Builds are provided for research and evaluation purposes only and are not permitted for redistribution or commercial use
+- Source Code is licensed under the MIT License
+- 3D Assets, Models, and Builds are provided for research and evaluation purposes only and are not permitted for redistribution or commercial use
+
 ---
 
 ## 🤝 Contributors
@@ -204,6 +205,8 @@ This work has received funding from the Smart Networks and Services Joint Undert
 ![Main Room](screenshots/Screenshot_6.jpg)
 
 ![Map Exploration](screenshots/Screenshot_7.jpg)
+
+![Unity Environment](screenshots/Screenshot_8.jpg)
 
 
 

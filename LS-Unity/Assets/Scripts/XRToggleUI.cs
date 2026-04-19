@@ -3,19 +3,19 @@ using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.XR.Interaction.Toolkit.Interactables;
 
 [RequireComponent(typeof(XRSimpleInteractable))]
-public class XrToggleUi : MonoBehaviour
+public class XRToggleUi : MonoBehaviour
 {
     [SerializeField] private GameObject ui = null!;
     [SerializeField] private GameObject highlight = null!;
 
-    private Transform xrCamera; // no longer serialized
-
+    private Transform xrCamera;
     private XRSimpleInteractable interactable;
-    private static XrToggleUi currentlyOpen;
+    private static XRToggleUi currentlyOpen;
 
     private void Awake()
     {
         interactable = GetComponent<XRSimpleInteractable>();
+        ResolveCamera();
     }
 
     private void OnEnable()
@@ -39,7 +39,6 @@ public class XrToggleUi : MonoBehaviour
 
     private void Update()
     {
-        // In case camera wasn't ready at Start (XR can initialize late)
         if (xrCamera == null)
             ResolveCamera();
 
@@ -50,9 +49,7 @@ public class XrToggleUi : MonoBehaviour
     private void ResolveCamera()
     {
         if (Camera.main != null)
-        {
             xrCamera = Camera.main.transform;
-        }
     }
 
     private void OnSelected(SelectEnterEventArgs args)
@@ -80,6 +77,9 @@ public class XrToggleUi : MonoBehaviour
 
         if (highlight != null)
             highlight.SetActive(false);
+
+        if (xrCamera != null)
+            FaceCamera();
     }
 
     private void HideUi()
@@ -93,11 +93,14 @@ public class XrToggleUi : MonoBehaviour
     private void FaceCamera()
     {
         Vector3 direction = xrCamera.position - ui.transform.position;
-        direction.y = 0; // keep upright
+        direction.y = 0f;
 
-        if (direction.sqrMagnitude > 0.001f)
-        {
-            ui.transform.rotation = Quaternion.LookRotation(direction);
-        }
+        if (direction.sqrMagnitude < 0.001f)
+            return;
+
+        ui.transform.rotation = Quaternion.LookRotation(direction);
+
+        // Flip 180 so the visible front of the UI faces the player
+        ui.transform.Rotate(0f, 180f, 0f);
     }
 }
