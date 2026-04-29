@@ -29,7 +29,6 @@ LearnSphere enables users to explore **high-fidelity 3D environments** (e.g., cu
 - 🌍 Real-world terrain integration (OpenStreetMap-based)  
 - 🏛️ Photorealistic 3D models (photogrammetry-based assets)  
 - ⚡ Support for dynamic content streaming via server  
-- 🤝 Multi-user and collaborative learning scenarios  
 - 📡 Designed for edge-cloud and 6G-ready architectures  
 
 ---
