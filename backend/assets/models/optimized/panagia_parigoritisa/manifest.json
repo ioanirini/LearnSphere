@@ -1,0 +1,9 @@
+{
+    "asset_base_url": "/assets/models/optimized/panagia_parigoritisa",
+    "packages": [
+        {
+            "name": "Panagia Parigoritisa",
+            "glb_url": "/assets/models/optimized/panagia_parigoritisa/panagia_parigoritisa.glb"
+        }
+    ]
+}

@@ -18,7 +18,7 @@ public class GameManager : MonoBehaviour
 
     [Header("Defaults")]
     [SerializeField]
-    private string defaultBaseUrl = "http://localhost:8080";
+    private string defaultBaseUrl = "http://127.0.0.1:9000";
 
 
     public string BaseUrl { get; private set; }

@@ -5,10 +5,8 @@ using UnityEngine;
 public class HostConfigurator : MonoBehaviour
 {
     [Header("UI")]
-    [SerializeField]
-    private TMP_InputField hostInput;
-    [SerializeField]
-    private TMP_Text hostLabel;
+    [SerializeField] private TMP_InputField hostInput;
+    [SerializeField] private TMP_Text hostLabel;
 
     public Manifest Config { get; private set; }
 
@@ -20,18 +18,34 @@ public class HostConfigurator : MonoBehaviour
             return;
         }
 
-        if (hostInput != null)
-        {    
-            hostInput.text = GameManager.Singleton.BaseUrl;
-        }
-        if (hostLabel != null)
-        {
-            hostLabel.text = GameManager.Singleton.BaseUrl;
-        }
+        RefreshHostField();
 
 #if UNITY_ANDROID && !UNITY_EDITOR
         StartCoroutine(OpenKeyboardAfterUiInitCoroutine());
 #endif
+    }
+
+    private void OnEnable()
+    {
+        if (GameManager.Singleton != null && !GameManager.Singleton.IsDemoMode)
+        {
+            RefreshHostField();
+        }
+    }
+
+    private void RefreshHostField()
+    {
+        string savedHost = GameManager.Singleton.BaseUrl;
+
+        if (hostInput != null)
+        {
+            hostInput.text = savedHost;
+        }
+
+        if (hostLabel != null)
+        {
+            hostLabel.text = savedHost;
+        }
     }
 
     IEnumerator OpenKeyboardAfterUiInitCoroutine()
@@ -53,12 +67,9 @@ public class HostConfigurator : MonoBehaviour
         }
     }
 
-    // ============================
-    // OK BUTTON
-    // ============================
     public void ConfirmHost()
     {
-        string? input = hostInput?.text.Trim();
+        string input = hostInput != null ? hostInput.text.Trim() : "";
 
         if (!string.IsNullOrEmpty(input))
         {
@@ -70,9 +81,6 @@ public class HostConfigurator : MonoBehaviour
             GameManager.Singleton.SetBaseUrl(input);
         }
 
-        if (hostLabel != null)
-        {
-            hostLabel.text = GameManager.Singleton.BaseUrl;
-        }
+        RefreshHostField();
     }
 }

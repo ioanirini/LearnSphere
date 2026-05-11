@@ -1,0 +1,7 @@
+<linker>
+  <assembly fullname="glTFast">
+    <type fullname="GLTFast.Materials.BuiltInMaterialGenerator" preserve="all"/>
+    <type fullname="GLTFast.Materials.BuiltInShaderGraphMaterialGenerator" preserve="all"/>
+    <type fullname="GLTFast.Materials.MaterialGenerator" preserve="all"/>
+  </assembly>
+</linker>

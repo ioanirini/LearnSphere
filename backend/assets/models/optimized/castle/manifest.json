@@ -1,0 +1,9 @@
+{
+    "asset_base_url": "/assets/models/optimized/castle",
+    "packages": [
+        {
+            "name": "Castle",
+            "glb_url": "/assets/models/optimized/castle/castle.glb"
+        }
+    ]
+}

@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/App-NoServerLoad 1.unity
-    guid: 96dfd90b5e3e90846a61b0d1cbbb2eaa
+    path: Assets/Scenes/App-ServerLoad.unity
+    guid: 021915c2b854f754792eccce07734bb5
   - enabled: 1
     path: Assets/Scenes/AghiosVasileios.unity
     guid: ef99764900ee8774b866bfc124bfb126
