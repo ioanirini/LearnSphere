@@ -5,15 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/App-ServerLoad.unity
     guid: 021915c2b854f754792eccce07734bb5
+  - enabled: 1
+    path: Assets/Scenes/App-NoServerLoad 1.unity
+    guid: 96dfd90b5e3e90846a61b0d1cbbb2eaa
+  - enabled: 1
+    path: Assets/Scenes/Gefyri.unity
+    guid: 455f3002f89f7a349b01c05c2a6b70e2
   - enabled: 1
     path: Assets/Scenes/AghiosVasileios.unity
     guid: ef99764900ee8774b866bfc124bfb126
   - enabled: 1
     path: Assets/Scenes/Panagia.unity
     guid: f59a40017dd53304fabc71d3d1005b5a
+  - enabled: 1
+    path: Assets/Scenes/Castle.unity
+    guid: c0bcec3768c37ae4080659fb9f6da062
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2674b460ebd2f314c88d951ec275d347, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
